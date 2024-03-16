@@ -1,0 +1,28 @@
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\bin\Debug\Anotarity.exe.config
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\bin\Debug\Anotarity.exe
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\bin\Debug\Anotarity.pdb
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.csprojAssemblyReference.cache
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.Properties.Resources.resources
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.csproj.GenerateResource.cache
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.csproj.CoreCompileInputs.cache
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.exe
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.pdb
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.StartForm.resources
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.TemplateForm.resources
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.ScanInitForm.resources
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.ScanForm.resources
+C:\Users\Niki\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.ResultsForm.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\bin\Debug\Anotarity.exe.config
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\bin\Debug\Anotarity.exe
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\bin\Debug\Anotarity.pdb
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.csprojAssemblyReference.cache
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.ScanForm.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.ScanInitForm.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.ResultsForm.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.StartForm.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.TemplateForm.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.Properties.Resources.resources
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.csproj.GenerateResource.cache
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.csproj.CoreCompileInputs.cache
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.exe
+C:\Users\Niki\Desktop\OLD DESKTOP\Desktop\Olympiad\Anotarity\Design 3\Anotarity\Anotarity\obj\Debug\Anotarity.pdb
